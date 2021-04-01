@@ -40,7 +40,7 @@ X - RAY 이미지상 다양한 양상의 음영 (폐 부위에 희마한 그림�
 
 즉, 일정한 패턴을 가지고 있으며, 이러한 패턴을 읽어내는 알고리짐을 딥러닝으로 구현해 보고자 한다.
 
-## 딥러닝 구성
+## 모델 구성
 
 [모델 작성 코드](https://github.com/ParkJongham/ham/tree/master/PNEUMONIA_CLassification_CNN)
 
