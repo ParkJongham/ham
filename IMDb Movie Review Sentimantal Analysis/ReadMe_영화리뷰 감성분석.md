@@ -9,7 +9,7 @@
 
 2. 사용 기법 : 
 
-- [1 - D CNN : 합성곱 연산을 통한 이미지 특징을 추출하는 신경망]()
+- [1 - D CNN : 합성곱 연산을 통한 이미지 특징을 추출하는 신경망](https://github.com/ParkJongham/ham/blob/master/IMDb%20Movie%20Review%20Sentimantal%20Analysis/Sentimental%20Analysis%20Classification.md)
 
 3. 모델 구성 : 
 
