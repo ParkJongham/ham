@@ -92,7 +92,7 @@ Augumentation 만을 모아서 제공하는 전문 라이브러리 중 하나
 ## Tensorflow 의 Random Augumentation API
 
 
-[random Augumentation 적용 코드](https://github.com/ParkJongham/ham/blob/master/Data%20Augmentation/Augmentation%20%EC%A0%81%EC%9A%A9%2C%20CutMix%20%EA%B5%AC%ED%98%84%2C%20MixUp%20%EA%B5%AC%ED%98%84.ipynb)
+[random Augumentation, Augmentation 적용, CutMix 구현, MixUp 구현, CutMix 또는 Mixup 비교실험 적용 코드](https://github.com/ParkJongham/ham/blob/master/Data%20Augmentation/Augmentation%20%EC%A0%81%EC%9A%A9%2C%20CutMix%20%EA%B5%AC%ED%98%84%2C%20MixUp%20%EA%B5%AC%ED%98%84%2C%20CutMix%20%EB%98%90%EB%8A%94%20Mixup%20%EB%B9%84%EA%B5%90%EC%8B%A4%ED%97%98.ipynb)
 
 - 이미지셋에 대해 랜덤한 확률로 적용할 수 있는 augmentation 기법
 
