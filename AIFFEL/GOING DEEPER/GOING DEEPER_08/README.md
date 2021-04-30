@@ -219,7 +219,7 @@ class KittiGenerator(tf.keras.utils.Sequence):
       return self.indexes
 ```
 <br></br>
->
+> 학습 데이터와 테스트 데이터에 적용
 ```python
 augmentation = build_augmentation()
 test_preproc = build_augmentation(is_train=False)
