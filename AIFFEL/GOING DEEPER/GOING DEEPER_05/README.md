@@ -1,4 +1,4 @@
-﻿# Object Detection
+﻿# 05. Object Detection
 
 Object Detection 이란 이미지 내에 존재하는 물체의 위치를 감지하고 해당 물체가 무엇인지 찾아내는 것이다.
 
