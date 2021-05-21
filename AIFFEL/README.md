@@ -2,7 +2,7 @@
 
 ### <center>2020.12.31 ~ 2021.06.23</center>
 
-|||||
+||||||
 ---|---|---|---|---|
 <center>NO.</center>|<center>STUDY</center>|<center>PROJECT</center>|<center>SUBJECT</center>|
 EXPLORATION_01|<center>[인공지능과 가위바위보 하기](https://github.com/ParkJongham/ham/tree/master/AIFFEL/EXPLORATION/EXPLORATION_01)</center>|<center>[가위바위보 분류기 만들기](https://github.com/ParkJongham/ham/blob/master/AIFFEL/EXPLORATION/EXPLORATION_01/Project/Project%2001.%20%EA%B0%80%EC%9C%84%EB%B0%94%EC%9C%84%EB%B3%B4%20%EB%B6%84%EB%A5%98%EA%B8%B0%20%EB%A7%8C%EB%93%A4%EA%B8%B0.ipynb)</center>|Image Classification, LeNet (CNN), HyperParameter|
@@ -45,5 +45,4 @@ GOING DEEPER_17|<center>[멀리 있지만 괜찮아](https://github.com/ParkJong
 GOING DEEPER_18|<center>[멀리 있는 사람도 스티커를 붙여주자](https://github.com/ParkJongham/ham/tree/master/AIFFEL/GOING%20DEEPER/GOING%20DEEPER_18)</center>|<center>[스티커를 붙여주자](https://github.com/ParkJongham/ham/blob/master/AIFFEL/GOING%20DEEPER/GOING%20DEEPER_18/Project/Project%2018.%20%EC%8A%A4%ED%8B%B0%EC%BB%A4%EB%A5%BC%20%EB%B6%99%EC%97%AC%EC%A3%BC%EC%9E%90.ipynb)</center>|SSD, Prior, Hard Negative Mining, NMS, Multi - Face Detection|
 GOING DEEPER_19|<center>[사람의 몸짓을 읽어보자](https://github.com/ParkJongham/ham/tree/master/AIFFEL/GOING%20DEEPER/GOING%20DEEPER_19)</center>|<center></center>|Human Pose Detection(Human Pose Estimation), Human Keypoint Detection, DeepPose, CPM (Convolutional Pose Machines), Hourglass, SimpleBaseline, HRNet|
 GOING DEEPER_20|<center>[행동 스티커 만들기](https://github.com/ParkJongham/ham/tree/master/AIFFEL/GOING%20DEEPER/GOING%20DEEPER_20)</center>|<center>[모델 바꿔보기](https://github.com/ParkJongham/ham/blob/master/AIFFEL/GOING%20DEEPER/GOING%20DEEPER_20/Project/Project%2C%2020.%20%EB%AA%A8%EB%8D%B8%20%EB%B0%94%EA%BF%94%EB%B3%B4%EA%B8%B0.ipynb)</center>|json type file,ray, hourglass model, stacked hourglass model|
-
 
