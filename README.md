@@ -4,7 +4,7 @@
 
 
 
-<center>NO.</center>|<center>STUDY</center>|<center>PROJECT</center>|<center>SUBJECT</center>
+NO.|STUDY|PROJECT|SUBJECT
 ---|---|---|---
 EXPLORATION 01|<center>[인공지능과 가위바위보 하기](https://github.com/ParkJongham/ham/tree/master/AIFFEL/EXPLORATION/EXPLORATION_01)</center>|<center>[가위바위보 분류기 만들기](https://github.com/ParkJongham/ham/blob/master/AIFFEL/EXPLORATION/EXPLORATION_01/Project/Project%2001.%20%EA%B0%80%EC%9C%84%EB%B0%94%EC%9C%84%EB%B3%B4%20%EB%B6%84%EB%A5%98%EA%B8%B0%20%EB%A7%8C%EB%93%A4%EA%B8%B0.ipynb)</center>|Image Classification, LeNet (CNN), HyperParameter
 EXPLORATION 02|<center>[Iris의 세가지 품종, 분류해볼 수 있겠어요?](https://github.com/ParkJongham/ham/tree/master/AIFFEL/EXPLORATION/EXPLORATION_02)</center>|<center>[load_digits : 손글씨를 분류 / load_wine : 와인을 분류 / load_breast_cancer : 유방암 여부를 진단](https://github.com/ParkJongham/ham/tree/master/AIFFEL/EXPLORATION/EXPLORATION_02/Project)</center>|Scikit-learn, Decision Tree, RandomForest, confusion metrix, Machine Learning
